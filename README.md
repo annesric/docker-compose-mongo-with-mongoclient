@@ -1,4 +1,4 @@
-# mongo-with-mongoclient
+# docker-compose mongodb with mongoclient
 docker compose file for mongodb with mongoclient
 
 
